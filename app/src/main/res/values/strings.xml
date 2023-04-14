@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Teast</string>
+    <string name="select_one_of_this_lanuages">Select one of this lanuages</string>
+    <string-array name="languages">
+        <item>java</item>
+        <item>c++</item>
+        <item>c#</item>
+        <item>Paython</item>
+    </string-array>
+</resources>
